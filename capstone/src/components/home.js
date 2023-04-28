@@ -10,6 +10,9 @@ export default function home(props) {
             <p>The NewImpact Wiki is a free online directory of resources in your impact area. 
                 The unique dataset provided by NewImpact allows you to explore through various modes and filters!
             </p>
+            <p>
+                Familiar with Kibana? Visit our Kibana dashboard <a href="https://wiki.newimpact.care/login?next=%2F#?_g=()" target="_blank">here</a>!
+            </p>
             <Map></Map>
         </div>
     );
