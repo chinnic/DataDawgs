@@ -20,7 +20,7 @@ export default function splash (props) {
             <h1 className="section">Demo Video</h1>
             <div className="description">
               <p>*Update with New Demo</p>
-              <iframe src="https://youtu.be/UFmnwAmv7vc"></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/UFmnwAmv7vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
             <h1 className="section">Team</h1>
             <div className="description">
