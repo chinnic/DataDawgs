@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DataDawgs/static/css/main.8cc9e3c5.css",
+    "main.js": "/DataDawgs/static/js/main.4eebd63f.js",
+    "static/js/787.d37de791.chunk.js": "/DataDawgs/static/js/787.d37de791.chunk.js",
+    "static/media/pup.png": "/DataDawgs/static/media/pup.6d187e8bf76335836c30.png",
+    "index.html": "/DataDawgs/index.html",
+    "main.8cc9e3c5.css.map": "/DataDawgs/static/css/main.8cc9e3c5.css.map",
+    "main.4eebd63f.js.map": "/DataDawgs/static/js/main.4eebd63f.js.map",
+    "787.d37de791.chunk.js.map": "/DataDawgs/static/js/787.d37de791.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cc9e3c5.css",
+    "static/js/main.4eebd63f.js"
+  ]
+}
